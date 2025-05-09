@@ -1,0 +1,21 @@
+1. Managers API
+ Admin dashboard to view All managers. Create a new manager
+ Manager profile to view manager: Search Manager filter, Edit/Update button and delete button for manager
+ 
+2. Identities API 
+Admin can create a new identity under a manager
+
+Admin can view all identities created under a manager 
+
+Admin can (Modal or SideMenu) view each identity under a manager 
+
+Admin can edit the identity 
+
+Admin can delete the identity
+
+3. 
+
+
+Admin view Manager and manager CRUD
+Manager view Identities and Identities CRUD
+
